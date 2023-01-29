@@ -1,0 +1,7 @@
+.stars{
+  font-size: 20px;
+}
+
+.stars > .active{
+  color: #35fc9f;
+}
